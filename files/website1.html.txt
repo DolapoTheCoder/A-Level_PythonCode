@@ -1,0 +1,22 @@
+<html>
+<head>
+<link rel="stylesheet" href="homepage1.css">
+<title>My Web Site</title>
+</head>
+
+<body>
+<center>
+<h1>My Home Page</h1>
+<h2>Welcome</h2>
+<h3>My name is DOLAPO Welcome to my website</h3>
+</center>
+
+<p> <img src="sheckwes.jpg" alt="sheckwes" height="200px" width="200px">
+<p> <input type="submit" value="Home">
+<p> <input type="submit" value="About Me">
+
+<p> <a href="https://www.google.co.uk"> Google Search!</a>
+
+</body>
+
+</html>
